@@ -98,7 +98,7 @@ Welcome to my SOC Analyst Learning Path repository! This comprehensive guide is 
 ## 🏆 Achievements
 Upon completing the SOC Analyst Learning Path, you will earn:
 - **"SOC Analyst Learning Path" Certificate** 📜
-  [image](https://github.com/Viictor21/SOC-learning-path/assets/167897632/5777de4f-8f32-4300-98da-d274787db34f)
+![image](https://github.com/Viictor21/SOC-learning-path/assets/167897632/5777de4f-8f32-4300-98da-d274787db34f)
 
 - **"SOC Analyst Learning Path" Badge** 🏅
 
