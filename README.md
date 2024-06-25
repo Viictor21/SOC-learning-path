@@ -101,6 +101,8 @@ Upon completing the SOC Analyst Learning Path, you will earn:
 ![image](https://github.com/Viictor21/SOC-learning-path/assets/167897632/5777de4f-8f32-4300-98da-d274787db34f)
 
 - **"SOC Analyst Learning Path" Badge** 🏅
+![image](https://github.com/Viictor21/SOC-learning-path/assets/167897632/b18c2270-2364-49a2-a420-5c611c71aa78)
+
 
 ---
 
