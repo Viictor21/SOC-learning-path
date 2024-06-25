@@ -9,3 +9,7 @@ Installation
 Command and Control
 Actions on Objectives
 Understanding these phases helps in developing effective defensive strategies to mitigate and respond to cyber threats.
+
+Key Tools Learned:
+
+Threat Intelligence Platforms: Utilized to gather and analyze threat data to anticipate and mitigate cyber threats.
